@@ -1,0 +1,28 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "first discord bot demo test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MareksNo/discord-bot-test.git"
+  },
+  "author": "MareksNo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MareksNo/discord-bot-test/issues"
+  },
+  "homepage": "https://github.com/MareksNo/discord-bot-test#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.24.0",
+    "mongoose": "^5.12.4"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0"
+  }
+}
